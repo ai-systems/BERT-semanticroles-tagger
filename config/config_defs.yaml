@@ -1,0 +1,5 @@
+path:
+    temp_path: .\data\temp\*.txt
+    definition_file : .\data\definition-corona-final.csv
+    corpus: .\data\all_sources_metadata_2020-03-13.csv
+    temp_dir: .\data\temp\

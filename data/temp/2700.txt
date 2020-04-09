@@ -1,0 +1,390 @@
+CUI: C0206419, Name: Genus: Coronavirus
+Definition: A genus of the family CORONAVIRIDAE which causes respiratory or gastrointestinal disease in a variety of vertebrates.
+TUI(s): T005
+Aliases (abbreviated, total: 12): 
+	 Coronavirus, Coronavirus, Coronavirus, Coronavirus, Coronavirus, CORONAVIRUS, coronavirus, Coronaviruses, Coronaviruses, Coronaviruses
+CUI: C0010076, Name: Coronaviridae
+Definition: Spherical RNA viruses, in the order NIDOVIRALES, infecting a wide range of animals including humans. Transmission is by fecal-oral and respiratory routes. Mechanical transmission is also common. There are two genera: CORONAVIRUS and TOROVIRUS.
+TUI(s): T005
+Aliases (abbreviated, total: 15): 
+	 Coronaviridae, Coronaviridae, Coronaviridae, Coronaviridae, Coronaviridae, Coronaviridae, Coronaviridae, coronaviridae, CORONAVIRUS, Family: Coronavirus group
+CUI: C3658243, Name: Spike Glycoprotein, Coronavirus
+Definition: A class I viral fusion protein that forms the characteristic spikes, or peplomers, found on the viral surface that mediate virus attachment, fusion, and entry into the host cell. During virus maturation, it is cleaved into two subunits: S1, which binds to receptors in the host cell, and S2, which mediates membrane fusion.
+TUI(s): T116, T123
+Aliases: (total: 10): 
+	 Spike Glycoprotein, Coronavirus, Spike Glycoproteins, Coronavirus, Spike Glycoproteins, Coronavirus, Coronavirus Spike Glycoprotein, Glycoprotein S, Coronavirus, Glycoprotein S, Coronavirus, Spike Protein, Coronavirus, Spike Protein, Coronavirus, Coronavirus Spike Protein, Spike Glycoprotein, Coronavirus [Chemical/Ingredient]
+CUI: C0206423, Name: Coronavirus, Rat
+Definition: A species of CORONAVIRUS causing pneumonia in newborn rats but a clinically inapparent infection in adults. It is separate but antigenically related to MURINE HEPATITIS VIRUS.
+TUI(s): T005
+Aliases: (total: 4): 
+	 Rat coronavirus, Rat coronavirus, Rat Coronavirus, Rat coronavirus (organism)
+CUI: C3698360, Name: Middle East Respiratory Syndrome Coronavirus
+Definition: A coronavirus first reported in the summer of 2012 in a pneumonia patient in SAUDI ARABIA. It is related to SARS VIRUS. MERS-CoV has an estimated incubation period of 12 days and symptoms include renal failure and severe acute pneumonia with often fatal outcome.
+TUI(s): T005
+Aliases (abbreviated, total: 11): 
+	 Middle East Respiratory Syndrome Coronavirus, Middle East respiratory syndrome coronavirus, Middle East respiratory syndrome coronavirus, Middle east respiratory syndrome coronavirus, MERS coronavirus, MERS coronavirus, Middle East respiratory syndrome coronavirus (organism), MERS-CoV, MERS-CoV, Middle East Respiratory Syndrome Coronavirus (MERS-CoV)
+CUI: C1823310, Name: TMEM50A gene
+Definition: None
+TUI(s): T028
+Aliases: (total: 9): 
+	 TMEM50A gene, TRANSMEMBRANE PROTEIN 50A, transmembrane protein 50A, SMP1, SMP1, SMALL MEMBRANE PROTEIN 1, small membrane protein 1, TMEM50A, TMEM50A
+CUI: C0025252, Name: Membrane Proteins
+Definition: Proteins which are found in membranes including cellular and intracellular membranes. They consist of two types, peripheral and integral proteins. They include most membrane-associated enzymes, antigenic proteins, transport proteins, and drug, hormone, and lectin receptors.
+TUI(s): T116, T123
+Aliases (abbreviated, total: 23): 
+	 Membrane Proteins, Membrane proteins, Membrane proteins, membrane proteins, membrane proteins, Membrane Protein, Membrane Protein, Membrane Protein, Protein, Membrane, membrane protein
+CUI: C1706853, Name: Assembly (construction)
+Definition: The act of constructing something.
+TUI(s): T052
+Aliases: (total: 2): 
+	 Assemble, Assembly
+CUI: C1879748, Name: Assembly (group of parts)
+Definition: A group of parts that fit together to form a self-contained unit.
+TUI(s): T073
+Aliases: (total: 1): 
+	 Assembly
+CUI: C1511520, Name: Core Assembly
+Definition: Assembly of virus core.
+TUI(s): T044
+Aliases: (total: 0): 
+	 
+CUI: C1523361, Name: Activation of Membrane Attack Complex
+Definition: The activation of the membrane attack complex components of the complement cascade which can result in death of a target cell through cytolysis. [GOC:add, ISBN:0781735149]
+TUI(s): T043
+Aliases: (total: 6): 
+	 activation of membrane attack complex, activation of MAC, MAC assembly, membrane attack complex assembly, membrane attack complex formation, MAC formation
+CUI: C0282629, Name: Virus Assembly
+Definition: The assembly of VIRAL STRUCTURAL PROTEINS and nucleic acid (VIRAL DNA or VIRAL RNA) to form a VIRUS PARTICLE.
+TUI(s): T038
+Aliases (abbreviated, total: 15): 
+	 virus assembly, virus assembly, Assemblies, Virus, Virus Assemblies, Assembly, Virus, virion assembly and maintenance, virion organization, Viral Assembly, viral assembly, Assemblies, Viral
+CUI: C0042760, Name: Virion
+Definition: The infective system of a virus, composed of the viral genome, a protein core, and a protein coat called a capsid, which may be naked or enclosed in a lipoprotein envelope called the peplos.
+TUI(s): T026
+Aliases (abbreviated, total: 20): 
+	 Virion, Virion, virion, virion, virion, Virions, virions, Virus Particle, Virus particle, virus particle
+CUI: C0947630, Name: Scientific Study
+Definition: None
+TUI(s): T059
+Aliases: (total: 7): 
+	 scientific study, scientific studies, Study, Study, Study, study, studies
+CUI: C0085973, Name: Case Study
+Definition: A detailed report of the diagnosis, treatment, and follow-up of an individual patient. Case reports also contain some demographic information about the patient (for example, age, gender, ethnic origin).
+TUI(s): T170
+Aliases (abbreviated, total: 11): 
+	 Case Study, Case Study, case study, case study, case studies, Case Studies, Case Report, case report, Case report, Case report
+CUI: C0036745, Name: Study of serum
+Definition: The study of serum, especially of antigen-antibody reactions in vitro.
+TUI(s): T091
+Aliases: (total: 7): 
+	 study of serum, serum studies, Serology, Serology, Serology, serology, serologies
+CUI: C0200898, Name: DNA analysis
+Definition: Any DNA based laboratory tests.
+TUI(s): T059
+Aliases: (total: 10): 
+	 DNA analysis, DNA analysis, analysis dna, dna analysis, DNA Analysis, DNA analysis, NOS, DNA studies, dna studies, Deoxyribonucleic acid analysis, Deoxyribonucleic acid analysis (procedure)
+CUI: C0023901, Name: Liver Function Tests
+Definition: Blood tests that are used to evaluate how well a patient's liver is working and also to help diagnose liver conditions.
+TUI(s): T059
+Aliases (abbreviated, total: 45): 
+	 Liver Function Tests, Liver Function Tests, Liver Function Tests, Liver Function Tests, Liver function tests, Liver function tests, Liver function tests, Liver function tests, liver function tests, Function Test, Liver
+CUI: C0033684, Name: Proteins
+Definition: Linear POLYPEPTIDES that are synthesized on RIBOSOMES and may be further modified, crosslinked, cleaved, or assembled into complex proteins with several subunits. The specific sequence of AMINO ACIDS determines the shape the polypeptide will take, during PROTEIN FOLDING, and the function of the protein.
+TUI(s): T116, T123
+Aliases (abbreviated, total: 34): 
+	 Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins
+CUI: C0555903, Name: Total protein measurement
+Definition: A quantitative measurement of the amount of total protein present in a sample.
+TUI(s): T059
+Aliases (abbreviated, total: 13): 
+	 Total protein measurement, Protein, total measurement, Total Protein Measurement, Protein, Protein, Total protein, protein total, total protein, proteins total, TP - Total protein
+CUI: C1521746, Name: Protein Info
+Definition: Protein; provides access to the encoding gene via its GenBank Accession, the taxon in which this instance of the protein occurs, and references to homologous proteins in other species.
+TUI(s): T077
+Aliases: (total: 2): 
+	 Protein Info, Protein
+CUI: C0872079, Name: protein protein interaction
+Definition: Temporary, non-covalent binding between protein molecules. Protein-protein interactions occur as a result of intermolecular physical forces and spatial complementation between domains or motifs. This interaction can be either homotypic or heterotypic and effect protein structure, conformation, and function.
+TUI(s): T044
+Aliases: (total: 6): 
+	 protein protein interaction, Protein-Protein Interaction, Protein-protein interactions, interaction protein, interactions protein, protein interaction
+CUI: C0086376, Name: GTP-Binding Proteins
+Definition: Regulatory proteins that act as molecular switches. They control a wide range of biological processes including: receptor signaling, intracellular signal transduction pathways, and protein synthesis. Their activity is regulated by factors that control their ability to bind to and hydrolyze GTP to GDP. EC 3.6.1.-.
+TUI(s): T116, T126
+Aliases (abbreviated, total: 48): 
+	 GTP-Binding Proteins, GTP-Binding Proteins, GTP Binding Protein, GTP Binding Proteins, GTP-Binding Protein, GTP-Binding Protein, GTP-Binding Protein, Protein, GTP-Binding, GTP binding protein, GTP-binding protein
+CUI: C0542341, Name: Function
+Definition: The normal action performed by a structure or device.
+TUI(s): T169
+Aliases (abbreviated, total: 15): 
+	 Function, Function, Function, Function, Function, FUNCTION, function, function, functioning, functions
+CUI: C0031843, Name: physiological aspects
+Definition: Used with organs, tissues, and cells of unicellular and multicellular organisms for normal function. It is used also with biochemical substances, endogenously produced, for their physiologic role.
+TUI(s): T039
+Aliases: (total: 2): 
+	 physiology, function
+CUI: C1705273, Name: Mathematical Operator
+Definition: A symbol or mathematical function that represents a specific action. For example, a plus sign (+) is an operator that represents addition. The basic mathematic operators are + addition, - subtraction,* multiplication,/ division. In addition to these operators, many programs and programming languages recognize other operators that allow you to manipulate numbers and text in more sophisticated ways. For example, Boolean operators enable you to test the truth or falsity of conditions, and relational operators let you compare one value to another.(from pcwebopaedia.com)
+TUI(s): T170
+Aliases: (total: 3): 
+	 Mathematical Operator, Operator, Function
+CUI: C0007613, Name: Cell physiology
+Definition: Cellular processes, properties, and characteristics.
+TUI(s): T043
+Aliases (abbreviated, total: 22): 
+	 Cell physiology, Physiology, Cell, Cell Physiology, Cell Physiology, cell physiology, cells physiology, Cell Process, Cell Process, cell function, cell function
+CUI: C0232804, Name: Renal function
+Definition: physiological activity and functions of the kidneys as a whole or of any of its parts, including filtering the blood for the secretion of urine.
+TUI(s): T042
+Aliases (abbreviated, total: 15): 
+	 Renal function, Renal function, Renal function, function renal, renal function, Renal function, NOS, functions renal, kidney function, kidney function, kidney function
+CUI: C0009450, Name: Communicable Diseases
+Definition: An illness caused by an infectious agent or its toxins that occurs through the direct or indirect transmission of the infectious agent or its products from an infected individual or via an animal, vector or the inanimate environment to a susceptible animal or human host.
+TUI(s): T047
+Aliases (abbreviated, total: 72): 
+	 Communicable Diseases, Communicable Diseases, Communicable Diseases, Communicable diseases, Communicable diseases, Communicable diseases, communicable diseases, Communicable Disease, Disease, Communicable, communicable disease
+CUI: C1556682, Name: Adverse Event Associated with Infection
+Definition: None
+TUI(s): T033
+Aliases: (total: 2): 
+	 Adverse Event Associated with Infection, INFECTION
+CUI: C3714514, Name: Infection
+Definition: Invasion of the host organism by microorganisms that can cause pathological conditions or diseases.
+TUI(s): T046
+Aliases (abbreviated, total: 25): 
+	 Infection, Infection, Infection, Infection, Infection, Infection, Infection, Infection, Infection, Infection
+CUI: C0948075, Name: Anal infection
+Definition: An infectious process affecting the anal area.
+TUI(s): T047
+Aliases: (total: 10): 
+	 Anal infection, infection anal, Anal Infection, anal infection, anal infections, Anal infection (disorder), Infection of anus, anus infections, anus infection, infection anus
+CUI: C2242472, Name: Infection of bone
+Definition: An acute or chronic infectious process affecting the bones.
+TUI(s): T047
+Aliases (abbreviated, total: 14): 
+	 Infection of bone, bone infections, bones infections, bones infection, Bone Infections, Bone infection, Bone infection, Bone infection, bone infection, bone infection
+CUI: C1706853, Name: Assembly (construction)
+Definition: The act of constructing something.
+TUI(s): T052
+Aliases: (total: 2): 
+	 Assemble, Assembly
+CUI: C1879748, Name: Assembly (group of parts)
+Definition: A group of parts that fit together to form a self-contained unit.
+TUI(s): T073
+Aliases: (total: 1): 
+	 Assembly
+CUI: C1511520, Name: Core Assembly
+Definition: Assembly of virus core.
+TUI(s): T044
+Aliases: (total: 0): 
+	 
+CUI: C1523361, Name: Activation of Membrane Attack Complex
+Definition: The activation of the membrane attack complex components of the complement cascade which can result in death of a target cell through cytolysis. [GOC:add, ISBN:0781735149]
+TUI(s): T043
+Aliases: (total: 6): 
+	 activation of membrane attack complex, activation of MAC, MAC assembly, membrane attack complex assembly, membrane attack complex formation, MAC formation
+CUI: C0282629, Name: Virus Assembly
+Definition: The assembly of VIRAL STRUCTURAL PROTEINS and nucleic acid (VIRAL DNA or VIRAL RNA) to form a VIRUS PARTICLE.
+TUI(s): T038
+Aliases (abbreviated, total: 15): 
+	 virus assembly, virus assembly, Assemblies, Virus, Virus Assemblies, Assembly, Virus, virion assembly and maintenance, virion organization, Viral Assembly, viral assembly, Assemblies, Viral
+CUI: C2717975, Name: Virus Release
+Definition: Release of a virus from the host cell following VIRUS ASSEMBLY and maturation. Egress can occur by host cell lysis, EXOCYTOSIS, or budding through the plasma membrane.
+TUI(s): T070
+Aliases: (total: 3): 
+	 Release, Virus, Virus Egress, Egress, Virus
+CUI: C1167395, Name: Host (organism)
+Definition: Any organism in which another organism, especially a parasite or symbiont, spends part or all of its life cycle and from which it obtains nourishment and/or protection. [ISBN:0198506732]
+TUI(s): T001
+Aliases: (total: 5): 
+	 host organism, host, host, Host, hosts
+CUI: C1819995, Name: Host Cell
+Definition: A cell within a host organism. Includes the host plasma membrane and any external encapsulating structures such as the host cell wall and cell envelope. [GOC:jl]
+TUI(s): T026
+Aliases: (total: 2): 
+	 host cell, host cell
+CUI: C1000546, Name: Hosta
+Definition: A plant genus of the family Asparagaceae. Members contain steroidal saponins.
+TUI(s): T002
+Aliases: (total: 4): 
+	 Hosta, Hosta, Hostas, Hosta Tratt.
+CUI: C0033684, Name: Proteins
+Definition: Linear POLYPEPTIDES that are synthesized on RIBOSOMES and may be further modified, crosslinked, cleaved, or assembled into complex proteins with several subunits. The specific sequence of AMINO ACIDS determines the shape the polypeptide will take, during PROTEIN FOLDING, and the function of the protein.
+TUI(s): T116, T123
+Aliases (abbreviated, total: 34): 
+	 Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins
+CUI: C0555903, Name: Total protein measurement
+Definition: A quantitative measurement of the amount of total protein present in a sample.
+TUI(s): T059
+Aliases (abbreviated, total: 13): 
+	 Total protein measurement, Protein, total measurement, Total Protein Measurement, Protein, Protein, Total protein, protein total, total protein, proteins total, TP - Total protein
+CUI: C1521746, Name: Protein Info
+Definition: Protein; provides access to the encoding gene via its GenBank Accession, the taxon in which this instance of the protein occurs, and references to homologous proteins in other species.
+TUI(s): T077
+Aliases: (total: 2): 
+	 Protein Info, Protein
+CUI: C0872079, Name: protein protein interaction
+Definition: Temporary, non-covalent binding between protein molecules. Protein-protein interactions occur as a result of intermolecular physical forces and spatial complementation between domains or motifs. This interaction can be either homotypic or heterotypic and effect protein structure, conformation, and function.
+TUI(s): T044
+Aliases: (total: 6): 
+	 protein protein interaction, Protein-Protein Interaction, Protein-protein interactions, interaction protein, interactions protein, protein interaction
+CUI: C0086376, Name: GTP-Binding Proteins
+Definition: Regulatory proteins that act as molecular switches. They control a wide range of biological processes including: receptor signaling, intracellular signal transduction pathways, and protein synthesis. Their activity is regulated by factors that control their ability to bind to and hydrolyze GTP to GDP. EC 3.6.1.-.
+TUI(s): T116, T126
+Aliases (abbreviated, total: 48): 
+	 GTP-Binding Proteins, GTP-Binding Proteins, GTP Binding Protein, GTP Binding Proteins, GTP-Binding Protein, GTP-Binding Protein, GTP-Binding Protein, Protein, GTP-Binding, GTP binding protein, GTP-binding protein
+CUI: C1153415, Name: ion channel activity
+Definition: Enables the facilitated diffusion of an ion (by an energy-independent process) by passage through a transmembrane aqueous pore or channel without evidence for a carrier-mediated mechanism. May be either selective (it enables passage of a specific ion only) or non-selective (it enables passage of two or more ions of same charge but different size). [GOC:cy, GOC:mtg_transport, GOC:pr, ISBN:0815340729]
+TUI(s): T044
+Aliases: (total: 1): 
+	 ion channel activity
+CUI: C1153410, Name: channel activity
+Definition: Enables the energy-independent facilitated diffusion, mediated by passage of a solute through a transmembrane aqueous pore or channel. Stereospecificity is not exhibited but this transport may be specific for a particular molecular species or class of molecules. [GOC:mtg_transport, ISBN:0815340729, TC:1.-.-.-.-]
+TUI(s): T044
+Aliases: (total: 2): 
+	 channel/pore class transporter activity, nonselective channel activity
+CUI: C2244346, Name: ion gated channel activity
+Definition: Enables the transmembrane transfer of a solute by a channel that opens in response to a specific ion stimulus. [GOC:mtg_transport]
+TUI(s): T044
+Aliases: (total: 0): 
+	 
+CUI: C1153430, Name: cation channel activity
+Definition: Enables the energy-independent passage of cations across a lipid bilayer down a concentration gradient. [GOC:def, GOC:dph, GOC:mtg_transport, GOC:pr, ISBN:0815340729]
+TUI(s): T044
+Aliases: (total: 1): 
+	 cation diffusion facilitator activity
+CUI: C1153419, Name: anion channel activity
+Definition: Enables the energy-independent passage of anions across a lipid bilayer down a concentration gradient. [GOC:dph, GOC:mtg_transport, GOC:pr, ISBN:0815340729]
+TUI(s): T044
+Aliases: (total: 0): 
+	 
+CUI: C0033684, Name: Proteins
+Definition: Linear POLYPEPTIDES that are synthesized on RIBOSOMES and may be further modified, crosslinked, cleaved, or assembled into complex proteins with several subunits. The specific sequence of AMINO ACIDS determines the shape the polypeptide will take, during PROTEIN FOLDING, and the function of the protein.
+TUI(s): T116, T123
+Aliases (abbreviated, total: 34): 
+	 Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins
+CUI: C0018017, Name: objective (goal)
+Definition: The end-result or objective, which may be specified or required in advance.
+TUI(s): T170
+Aliases (abbreviated, total: 17): 
+	 objective (goal), goals objectives, goal objective, Goals, Goals, Goals, goals, Goal, Goal, goal
+CUI: C1571704, Name: Act Mood - Goal
+Definition: <p><b>Definition:</b>An observation that is considered to be desirable to occur in the future. The essential feature of a goal is that if it occurs it would be considered as a marker of a positive outcome or of progress towards a positive outcome.</p><p><b>Examples:</b>Target weight below 80Kg, Stop smoking, Regain ability to walk, goal is to administer thrombolytics to candidate patients presenting with acute myocardial infarction.</p><p><b>Discussion:</b> INT (intent) reflects a plan for the future, which is a declaration to do something. This contrasts with goal which doesn't represent an intention to act, merely a hope for an eventual result. A goal is distinct from the intended actions to reach that goal. "I will reduce the dose of drug x to 20mg" is an intent. "I hope to be able to get the patient to the point where I can reduce the dose of drug x to 20mg" is a goal. EXPEC (expectation) reflects a prediction rather than a hope. RSK (risk) reflects a potential negative event rather than a hope.</p>
+TUI(s): T078
+Aliases: (total: 2): 
+	 Goal, ActMoodGoal
+CUI: C2930505, Name: Goals of Care
+Definition: Planned care program designed for a particular patient usually reflecting patient and family goals as well those institution and healthcare providers.
+TUI(s): T058
+Aliases: (total: 2): 
+	 Care Goals, Care Goal
+CUI: C1550526, Name: has goal
+Definition: <p>A goal that one defines given a patient's health condition. Subsequently planned actions aim to meet that goal. Source is an observation or condition node, target must be an observation in goal mood.</p>
+TUI(s): T170
+Aliases: (total: 1): 
+	 ActRelationshipHasGoal
+CUI: C1553896, Name: goal list
+Definition: <p>List of observations in goal mood.</p>
+TUI(s): T170
+Aliases: (total: 1): 
+	 goal list
+CUI: C1552617, Name: Act Class - review
+Definition: The act of appraisal, evaluation, or analysis.
+TUI(s): T078
+Aliases: (total: 3): 
+	 Review, Review, review
+CUI: C0282443, Name: Review [Publication Type]
+Definition: An article or book published after examination of published material on a subject. It may be comprehensive to various degrees and the time range of material scrutinized may be broad or narrow, but the reviews most often desired are reviews of the current literature. The textual material examined may be equally broad and can encompass, in medicine specifically, clinical material as well as experimental research or case reports. State-of-the-art reviews tend to address more current matters. A review of the literature must be differentiated from HISTORICAL ARTICLE on the same subject, but a review of historical literature is also within the scope of this publication type.
+TUI(s): T170
+Aliases: (total: 6): 
+	 Review, review, review, reviewed, reviewing, reviews
+CUI: C0699752, Name: Review of
+Definition: None
+TUI(s): T169
+Aliases: (total: 4): 
+	 Review of, review of, Review of (contextual qualifier) (qualifier value), Review of (contextual qualifier)
+CUI: C2984730, Name: Device Source Code Review Evaluation Method
+Definition: A systematic review of source code intended to find and fix mistakes possibly overlooked in the initial development phase.
+TUI(s): T169
+Aliases: (total: 1): 
+	 Code Review
+CUI: C0541653, Name: Chart evaluation by healthcare professional
+Definition: A procedure of review of the quality of a chart's documentation and coding by a certified professional medical auditor.
+TUI(s): T058
+Aliases: (total: 8): 
+	 Chart evaluation by healthcare professional, Chart review, chart review, Chart Review, Chart Review, chart reviews, Chart evaluation by healthcare professional (procedure), Medical Chart Review
+CUI: C0871161, Name: Property (attribute)
+Definition: A basic or essential attribute shared by all members of a class.
+TUI(s): T080
+Aliases: (total: 5): 
+	 Property (attribute), Property, Property, property, properties
+CUI: C1292721, Name: Has property
+Definition: None
+TUI(s): T169
+Aliases: (total: 4): 
+	 Has property, has property, properties, Has property (attribute)
+CUI: C3539061, Name: Device Properties Domain
+Definition: A subject domain utilized for the submission of information encompassing and representing data, vocabulary or records related to device properties.
+TUI(s): T078
+Aliases: (total: 3): 
+	 Device Properties Domain, Device Properties, DO
+CUI: C0243178, Name: chemical properties
+Definition: General term for compositional, structural, and reactivity- affecting qualities of chemical compounds.
+TUI(s): T070
+Aliases: (total: 6): 
+	 Chemical Properties, chemical property, Chemical Property, Property of Chemical, Attributes of Chemicals, Attribute of Chemical
+CUI: C0597237, Name: Physical Phenomenon or Property
+Definition: A natural phenomenon involving the physics of matter and energy.
+TUI(s): T070
+Aliases (abbreviated, total: 15): 
+	 Physical Phenomenon or Property, Physical Processes, Process, Physical, physical process, physical process, physical process, Physical Process, Physical Process, Processes, Physical, physical properties
+CUI: C0542341, Name: Function
+Definition: The normal action performed by a structure or device.
+TUI(s): T169
+Aliases (abbreviated, total: 15): 
+	 Function, Function, Function, Function, Function, FUNCTION, function, function, functioning, functions
+CUI: C0031843, Name: physiological aspects
+Definition: Used with organs, tissues, and cells of unicellular and multicellular organisms for normal function. It is used also with biochemical substances, endogenously produced, for their physiologic role.
+TUI(s): T039
+Aliases: (total: 2): 
+	 physiology, function
+CUI: C1705273, Name: Mathematical Operator
+Definition: A symbol or mathematical function that represents a specific action. For example, a plus sign (+) is an operator that represents addition. The basic mathematic operators are + addition, - subtraction,* multiplication,/ division. In addition to these operators, many programs and programming languages recognize other operators that allow you to manipulate numbers and text in more sophisticated ways. For example, Boolean operators enable you to test the truth or falsity of conditions, and relational operators let you compare one value to another.(from pcwebopaedia.com)
+TUI(s): T170
+Aliases: (total: 3): 
+	 Mathematical Operator, Operator, Function
+CUI: C0007613, Name: Cell physiology
+Definition: Cellular processes, properties, and characteristics.
+TUI(s): T043
+Aliases (abbreviated, total: 22): 
+	 Cell physiology, Physiology, Cell, Cell Physiology, Cell Physiology, cell physiology, cells physiology, Cell Process, Cell Process, cell function, cell function
+CUI: C0232804, Name: Renal function
+Definition: physiological activity and functions of the kidneys as a whole or of any of its parts, including filtering the blood for the secretion of urine.
+TUI(s): T042
+Aliases (abbreviated, total: 15): 
+	 Renal function, Renal function, Renal function, function renal, renal function, Renal function, NOS, functions renal, kidney function, kidney function, kidney function
+CUI: C0599561, Name: e protein
+Definition: None
+TUI(s): T116, T123
+Aliases: (total: 1): 
+	 E protein
+CUI: C0033684, Name: Proteins
+Definition: Linear POLYPEPTIDES that are synthesized on RIBOSOMES and may be further modified, crosslinked, cleaved, or assembled into complex proteins with several subunits. The specific sequence of AMINO ACIDS determines the shape the polypeptide will take, during PROTEIN FOLDING, and the function of the protein.
+TUI(s): T116, T123
+Aliases (abbreviated, total: 34): 
+	 Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins, Proteins
+CUI: C0555903, Name: Total protein measurement
+Definition: A quantitative measurement of the amount of total protein present in a sample.
+TUI(s): T059
+Aliases (abbreviated, total: 13): 
+	 Total protein measurement, Protein, total measurement, Total Protein Measurement, Protein, Protein, Total protein, protein total, total protein, proteins total, TP - Total protein
+CUI: C1521746, Name: Protein Info
+Definition: Protein; provides access to the encoding gene via its GenBank Accession, the taxon in which this instance of the protein occurs, and references to homologous proteins in other species.
+TUI(s): T077
+Aliases: (total: 2): 
+	 Protein Info, Protein
+CUI: C1610537, Name: cystatin E protein
+Definition: A cystatin subtype that has a diverse tissue distribution, target specificity, and functions as an endogenous inhibitor of lysosomal cysteine proteases.
+TUI(s): T116, T121, T123
+Aliases: (total: 10): 
+	 Cystatin E, Cystatin E, Cystatin M, Cystatin M, Cystatin-6, Cystatin-6, Cystatin 6, CST6 Cystatin, CST6 Cystatin, Cystatin M [Chemical/Ingredient]

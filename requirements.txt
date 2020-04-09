@@ -1,0 +1,10 @@
+tensorflow-gpu==1.15
+keras==2.3.1
+pydot
+graphiz
+bert-tensorflow
+pandas
+numpy
+sklearn
+pickle
+PyYAML

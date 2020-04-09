@@ -1,0 +1,17 @@
+path:
+    bert_path: https://tfhub.dev/google/bert_uncased_L-12_H-768_A-12/1
+    sentences : .\data\sentences.pkl
+    labels : .\data\sentence_tags.pkl
+    model_checkpoint: .\data\model\
+    test_data: .\data\definition-corona-final.csv
+    ser_tagged_data: .\data\Covid_definitions_ser_tag.csv
+    default_model_for_test: .\data\model\weights-improvement-02.-val_acc_0.924.hdf5
+    tag2int: .\data\tag2int.pkl
+    int2tag: .\data\int2tag.pkl
+    train_data: .\data\WKP_DSR_model_CSV.csv
+hyperparams:
+     learning_rate: 0.0005
+     epochs: 2
+     batch_size: 32
+common:
+    max_seq_len : 30
