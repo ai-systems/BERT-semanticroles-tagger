@@ -71,6 +71,27 @@ def preprocess_data(path):
     df = pd.DataFrame(data_set)
     return df
 
+def build_model(max_seq_length, n_tags):
+    seed = 0
+    in_id = keras.layers.Input(shape=(max_seq_length,), name="input_ids")
+    in_mask = keras.layers.Input(shape=(max_seq_length,), name="input_masks")
+    in_segment = keras.layers.Input(shape=(max_seq_length,), name="segment_ids")
+    bert_inputs = [in_id, in_mask, in_segment]
+
+    np.random.seed(seed)
+    bert_output = BertLayer()(bert_inputs)
+
+    np.random.seed(seed)
+    outputs = keras.layers.Dense(n_tags, activation=keras.activations.softmax)(bert_output)
+
+    np.random.seed(seed)
+    model = keras.models.Model(inputs=bert_inputs, outputs=outputs)
+    np.random.seed(seed)
+    model.compile(optimizer=keras.optimizers.Adam(lr=0.00005), loss=keras.losses.categorical_crossentropy,
+                  metrics=['accuracy'])
+    model.summary(100)
+    return model
+
 def run_eval(config):
     print("in eval")
     # load tags
