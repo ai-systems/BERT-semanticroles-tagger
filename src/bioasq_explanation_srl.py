@@ -129,5 +129,5 @@ if __name__ == "__main__":
         sys.exit(1)
 
     with open('./config/config_bioasq.yaml', 'r') as ymlfile:
-        config = yaml.load(ymlfile, Loader=yaml.FullLoader)
+        config = yaml.load(ymlfile)
     run_process(mode,config)
