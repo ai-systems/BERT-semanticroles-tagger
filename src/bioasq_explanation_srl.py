@@ -128,6 +128,6 @@ if __name__ == "__main__":
         print ("Ex:: python ser_bert_tagger.py --mode eval")
         sys.exit(1)
 
-    with open('.\config\config.yaml', 'r') as ymlfile:
+    with open('./config/config_bioasq.yaml', 'r') as ymlfile:
         config = yaml.load(ymlfile, Loader=yaml.FullLoader)
     run_process(mode,config)
