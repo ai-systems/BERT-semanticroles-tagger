@@ -128,9 +128,9 @@ def run_eval(config):
                                            terms_final)
     # format the output to get the contiguous sentences
     out = format_output(predicted_op)
-    out_df = pd.DataFrame.from_records([sub.split("::") for sub in out], columns=['term', 'ser'])
-    out_df = out_df.groupby('term').agg({'ser': 'sum'})
-    out_df.to_csv(config['path']['ser_tagged_data'])
+    # out_df = pd.DataFrame.from_records([sub.split("::") for sub in out], columns=['term', 'ser'])
+    # out_df = out_df.groupby('term').agg({'ser': 'sum'})
+    out_df.to_csv(config['path']['ser_tagged_bioasq_data'])
 
 
 if __name__ == "__main__":
